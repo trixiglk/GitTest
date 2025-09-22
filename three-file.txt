@@ -1,6 +1,6 @@
 Three file with some bugs
 
-Bug 11
+Bug 1
 Bug 22
 Bug 33
 Not Bug 4
